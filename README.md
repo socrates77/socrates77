@@ -1,7 +1,7 @@
 # Hi there 
 
 - 👋 I'm Alessandro Manias
-- 🔭 I’m currently working on WordPress website and a WebApp made with vue.
+- 🔭 I’m currently working on WordPress websites and a WebApp made with Nuxt.js.
 - 🌱 I’m currently learning Nuxt.js and sveltekit
 
 <!--
